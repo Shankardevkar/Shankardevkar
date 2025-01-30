@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Shankar from India<br><br>- 📚 I'm currently learning Javascript<br>- ⚡ In my free time I love do read books</p>
+<p align="left">I'm Shankar from India<br><br>- 📚 I'm currently learning Javascript<br>-🤌</p>
 
 ###
 
